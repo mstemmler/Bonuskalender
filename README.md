@@ -68,3 +68,4 @@ Install [Ionic View](http://view.ionic.io/) and preview the app on your mobile d
 * [Apache License](http://www.apache.org/licenses/)
 * [MIT License](https://opensource.org/licenses/MIT)
 # Bonuskalender
+# Bonuskalender
