@@ -1,0 +1,8 @@
+{
+  "name": "bonuskalender",
+  "app_id": "b0fa1908",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
